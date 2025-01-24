@@ -1,4 +1,5 @@
-/*public class NigeriaFlagNestedLoop {
+/*nested loop*/
+public class NigeriaFlagNestedLoop {
     public static void main(String[] args) {
         int height = 6; // Height of the flag
         int width = 11; // Width of the flag
@@ -21,8 +22,9 @@
             System.out.println(); // Move to the next line
         }
     }
-}*/
+}
 
+/*single loop*/
 public class Flag {
     public static void main(String[] args) {
         int rows = 6;
